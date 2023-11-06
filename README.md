@@ -1,2 +1,6 @@
 # NoName
-This is the official bot of the "Nonymous Community" group.   Join for community support: https://t.me/NonymousCommunity
+
+ᴛʜɪꜱ ɪꜱ ᴛʜᴇ ᴏꜰꜰɪᴄɪᴀʟ ʙᴏᴛ ᴏꜰ ᴛʜᴇ "Nonymous Community" ɢʀᴏᴜᴘ. ᴛʜɪꜱ ʙᴏᴛ ᴏꜰꜰᴇʀꜱ ʏᴏᴜ ᴄᴏᴍᴘʟᴇᴛᴇʟʏ ꜰʀᴇᴇ ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ᴀɴᴅ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴄᴏᴜʀꜱᴇꜱ. ɪꜰ ʏᴏᴜ'ʀᴇ ꜱᴛʀᴜɢɢʟɪɴɢ ᴛᴏ ꜰɪɴᴅ ᴛʜᴇ ᴘᴇʀꜰᴇᴄᴛ ᴄᴏᴜʀꜱᴇ ꜰᴏʀ ʏᴏᴜ ᴏʀ ɴᴏᴛ ꜱᴜʀᴇ ᴡʜᴇʀᴇ ᴛᴏ ꜱᴛᴀʀᴛ, ᴛʜɪꜱ ʙᴏᴛ ɢɪᴠᴇꜱ ʏᴏᴜ ᴀ ꜱᴛʀᴜᴄᴛᴜʀᴇᴅ ᴀɴᴅ ᴘᴇʀꜰᴇᴄᴛ ᴡᴀʏ ᴛᴏ ɢᴇᴛ ꜱᴛᴀʀᴛᴇᴅ ɪɴ ᴛʜᴇ ꜰɪᴇʟᴅ ᴏꜰ ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ.
+
+
+ᴊᴏɪɴ ᴛʜᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ: https://t.me/NonymousCommunity
