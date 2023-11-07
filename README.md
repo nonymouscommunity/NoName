@@ -4,6 +4,3 @@
 
 
 ᴊᴏɪɴ ᴛʜᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ: https://t.me/NonymousCommunity
-
-
-update
