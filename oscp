@@ -1,0 +1,36 @@
+The Offensive Security Certified Professional (OSCP) is an industry-recognized ethical hacking certification offered by Offensive Security (OffSec). It validates a professional's expertise in penetration testing methodologies and the practical application of tools and techniques used to identify and exploit vulnerabilities in computer systems.
+
+**OSCP Certification Overview**
+
+* **Target Audience:** Security professionals, IT professionals, and individuals seeking to validate their skills in penetration testing and ethical hacking
+* **Prerequisites:** Basic networking and security knowledge, familiarity with Linux operating systems, and experience with Kali Linux is recommended
+* **Exam Format:** 24-hour practical exam that simulates a real-world penetration testing environment
+* **Exam Objectives:** Demonstrate proficiency in various aspects of penetration testing, including information gathering, vulnerability analysis, exploitation, privilege escalation, reporting, and post-exploitation activities
+
+**Benefits of OSCP Certification**
+
+* **Enhanced Career Prospects:** OSCP certification is highly regarded by employers and can lead to career advancement opportunities in cybersecurity
+* **Increased Earning Potential:** OSCP-certified professionals often command higher salaries than their non-certified counterparts
+* **Validation of Skills:** OSCP certification provides concrete evidence of a professional's ability to conduct penetration testing and identify security weaknesses
+* **Competitive Advantage:** OSCP certification sets individuals apart from their peers and demonstrates their commitment to cybersecurity expertise
+
+**OSCP Learning Path**
+
+1. **Enroll in the PEN-200: Penetration Testing with Kali Linux course:** This official OffSec course provides comprehensive coverage of penetration testing methodologies and techniques, including hands-on experience with Kali Linux tools.
+
+2. **Utilize OSCP Study Materials:** OffSec offers various study materials, including the OSCP Practice Exam, OSCP Prep Book, and OSCP Video Course, to supplement your learning.
+
+3. **Join Online Forums and Communities:** Engage with fellow OSCP aspirants and experienced professionals in online forums and communities to share knowledge, ask questions, and receive guidance.
+
+4. **Practice in OffSec Proving Grounds Labs:** Enhance your practical skills by utilizing OffSec's Proving Grounds Labs, a virtual environment containing vulnerable machines that can be exploited to test your penetration testing abilities.
+
+5. **Prepare for the OSCP Exam:** Dedicate sufficient time to thorough preparation, including reviewing course materials, practicing with exam questions, and addressing any knowledge gaps.
+
+6. **Take the OSCP Exam:** Schedule and take the OSCP exam at an authorized Pearson VUE testing center.
+
+**Additional Resources**
+
+* Official OSCP Certification Page: https://www.offsec.com/
+* OSCP Exam Guide: https://m.youtube.com/watch?v=eLNYc-1ScdU
+* OSCP Study Materials: https://help.offsec.com/hc/en-us/articles/4406327703444-Course-start-guide
+* OffSec Proving Grounds Labs: https://www.offsec.com/labs/individual/
