@@ -1,18 +1,30 @@
-The Offensive Security Certified Professional (OSCP) is an industry-recognized ethical hacking certification offered by Offensive Security (OffSec). It validates a professional's expertise in penetration testing methodologies and the practical application of tools and techniques used to identify and exploit vulnerabilities in computer systems.
+**The Offensive Security Certified Professional (OSCP)** is an industry-recognized ethical hacking certification offered by Offensive Security (OffSec). It validates a professional's expertise in penetration testing methodologies and the practical application of tools and techniques used to identify and exploit vulnerabilities in computer systems.
 
 **OSCP Certification Overview**
 
-* **Target Audience:** Security professionals, IT professionals, and individuals seeking to validate their skills in penetration testing and ethical hacking
-* **Prerequisites:** Basic networking and security knowledge, familiarity with Linux operating systems, and experience with Kali Linux is recommended
-* **Exam Format:** 24-hour practical exam that simulates a real-world penetration testing environment
-* **Exam Objectives:** Demonstrate proficiency in various aspects of penetration testing, including information gathering, vulnerability analysis, exploitation, privilege escalation, reporting, and post-exploitation activities
+**Target Audience:** Security professionals, IT professionals, and individuals seeking to validate their skills in penetration testing and ethical hacking
+
+**Prerequisites:**
+- Basic networking and security knowledge
+- Familiarity with Linux operating systems
+- Experience with Kali Linux is recommended
+
+**Exam Format:** 24-hour practical exam that simulates a real-world penetration testing environment
+
+**Exam Objectives:** Demonstrate proficiency in various aspects of penetration testing, including:
+- Information gathering
+- Vulnerability analysis
+- Exploitation
+- Privilege escalation
+- Reporting
+- Post-exploitation activities
 
 **Benefits of OSCP Certification**
 
-* **Enhanced Career Prospects:** OSCP certification is highly regarded by employers and can lead to career advancement opportunities in cybersecurity
-* **Increased Earning Potential:** OSCP-certified professionals often command higher salaries than their non-certified counterparts
-* **Validation of Skills:** OSCP certification provides concrete evidence of a professional's ability to conduct penetration testing and identify security weaknesses
-* **Competitive Advantage:** OSCP certification sets individuals apart from their peers and demonstrates their commitment to cybersecurity expertise
+- **Enhanced Career Prospects:** OSCP certification is highly regarded by employers and can lead to career advancement opportunities in cybersecurity.
+- **Increased Earning Potential:** OSCP-certified professionals often command higher salaries than their non-certified counterparts.
+- **Validation of Skills:** OSCP certification provides concrete evidence of a professional's ability to conduct penetration testing and identify security weaknesses.
+- **Competitive Advantage:** OSCP certification sets individuals apart from their peers and demonstrates their commitment to cybersecurity expertise.
 
 **OSCP Learning Path**
 
@@ -30,7 +42,7 @@ The Offensive Security Certified Professional (OSCP) is an industry-recognized e
 
 **Additional Resources**
 
-* Official OSCP Certification Page: https://www.offsec.com/
-* OSCP Exam Guide: https://m.youtube.com/watch?v=eLNYc-1ScdU
-* OSCP Study Materials: https://help.offsec.com/hc/en-us/articles/4406327703444-Course-start-guide
-* OffSec Proving Grounds Labs: https://www.offsec.com/labs/individual/
+- [Official OSCP Certification Page](https://www.offsec.com/)
+- [OSCP Exam Guide](https://m.youtube.com/watch?v=eLNYc-1ScdU)
+- [OSCP Study Materials](https://help.offsec.com/hc/en-us/articles/4406327703444-Course-start-guide)
+- [OffSec Proving Grounds Labs](https://www.offsec.com/labs/individual/)
